@@ -662,7 +662,7 @@ header a {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url(./imagenes/servicios.jpg);
+    url(../imagenes/servicios.jpg);
   max-height: 300px;
   width: 100%;
 }
@@ -699,7 +699,7 @@ header a {
 /*ESTILO DE PAGINA PRODUCTOS*/
 
 .PRODUCTOS__PRINCIPAL {
-  background-image: url(./imagenes/PRODUCTOS.jpeg);
+  background-image: url(../imagenes/PRODUCTOS.jpeg);
   height: 300px;
   margin-left: 30px;
   margin-right: 30px;
